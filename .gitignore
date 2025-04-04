@@ -13,12 +13,12 @@ DerivedData/
 
 # SwiftPM
 .build/
-.swiftpm/xcode/package.xcworkspace/
+.swiftpm/xcode/
 
 # Fastlane
 fastlane/report.xml
 fastlane/screenshots
-fastlane/test_output
+fastlane/test_output/
 
 # Bundle
 *.ipa
